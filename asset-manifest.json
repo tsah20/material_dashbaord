@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/material_dashbaord/static/css/main.5f361e03.chunk.css",
+    "main.js": "/material_dashbaord/static/js/main.510acf60.chunk.js",
+    "main.js.map": "/material_dashbaord/static/js/main.510acf60.chunk.js.map",
+    "runtime-main.js": "/material_dashbaord/static/js/runtime-main.2c918da0.js",
+    "runtime-main.js.map": "/material_dashbaord/static/js/runtime-main.2c918da0.js.map",
+    "static/css/2.7c35e809.chunk.css": "/material_dashbaord/static/css/2.7c35e809.chunk.css",
+    "static/js/2.cc5a7b1e.chunk.js": "/material_dashbaord/static/js/2.cc5a7b1e.chunk.js",
+    "static/js/2.cc5a7b1e.chunk.js.map": "/material_dashbaord/static/js/2.cc5a7b1e.chunk.js.map",
+    "index.html": "/material_dashbaord/index.html",
+    "precache-manifest.de55a41fa83cbda396825dcc8a72a0f0.js": "/material_dashbaord/precache-manifest.de55a41fa83cbda396825dcc8a72a0f0.js",
+    "service-worker.js": "/material_dashbaord/service-worker.js",
+    "static/css/2.7c35e809.chunk.css.map": "/material_dashbaord/static/css/2.7c35e809.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/material_dashbaord/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.cc5a7b1e.chunk.js.LICENSE.txt": "/material_dashbaord/static/js/2.cc5a7b1e.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/material_dashbaord/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2c918da0.js",
+    "static/css/2.7c35e809.chunk.css",
+    "static/js/2.cc5a7b1e.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.510acf60.chunk.js"
+  ]
+}
